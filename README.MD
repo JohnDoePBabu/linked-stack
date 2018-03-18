@@ -12,7 +12,8 @@ A command line app that creates a simple stack using linked lists.
 
 ### options
 
-Use --pop argument to specify which key to use for pop. Default  is '-'
+Use --pop argument to specify which key to use for pop. Default  is '-'.
+
 ` npm start -- --pop=/ `
 
 ## Test
