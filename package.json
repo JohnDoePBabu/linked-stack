@@ -1,0 +1,26 @@
+{
+  "name": "linked-stack",
+  "version": "1.0.0",
+  "description": "Implementation of stack using linked list",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ --exit"
+  },
+  "keywords": [
+    "stack",
+    "linked-list",
+    "nodejs"
+  ],
+  "author": "Shreyas P Babu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "yargs": "^11.0.0"
+  }
+}
